@@ -28,7 +28,7 @@
     "@iconify-json/ep": "^1.1.14",
     "@types/vue-router": "^2.0.0",
     "@vitejs/plugin-vue": "^5.0.1",
-    "electron": "^28.1.0",
+    "electron": "^29.1.0",
     "electron-builder": "^24.9.1",
     "sass": "^1.70.0",
     "sass-loader": "^14.0.0",
